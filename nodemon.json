@@ -1,0 +1,9 @@
+{
+    "env": 
+    {
+        "MONGO_ATLAS_PW": "D60zFYVOAd7AGTNl",
+        "JWT_KEY": "secret",
+        "REMOTE_DATABASE": "test",
+        "PORT" : "https://line-crush-socket.herokuapp.com/"
+    }
+}
